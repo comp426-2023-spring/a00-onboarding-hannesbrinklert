@@ -1,0 +1,8 @@
+Install checked: 2023-01-14T21:19:37-05:00
+
+SYSTEM:	Linux Hannes 5.4.72-microsoft-standard-WSL2 #1 SMP Wed Oct 28 23:40:43 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.25.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Jan 11 2023 23:54:11)
+CURL:	[/home/hannes/anaconda3/bin/curl] curl 7.82.0 (x86_64-conda-linux-gnu) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/home/hannes/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
